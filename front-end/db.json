@@ -1,0 +1,18 @@
+{
+  "NhanVien": [
+    {
+      "id": 1,
+      "ho_ten": "Va Ca Lo",
+      "tuoi": "18",
+      "ten_phong": "Hanh Chính",
+      "chuc_vu": "Bảo Vệ"
+    },
+    {
+      "ho_ten": "Di Ca Me",
+      "tuoi": "20",
+      "ten_phong": "Nhân sự",
+      "chuc_vu": "Giám Đốc",
+      "id": 2
+    }
+  ]
+}
